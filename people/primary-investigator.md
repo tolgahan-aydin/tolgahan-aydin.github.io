@@ -3,16 +3,16 @@ layout: page
 title: "Primary Investigator"
 ---
 
-Researcher - Physics & Astronomy
+Professor - Cognitive Psychology
 
-Some University - 1 Main Street, Canada
+X University - Adress
 
-Phone: (000) 000-0000
+Phone:
 
-Email: hello@university.edu
+Email:
 
-Office: Science Building 505
+Office:
 
 ---
 
-Nullam lacinia eros eu lectus efficitur euismod. Phasellus ac urna ligula. Curabitur a massa volutpat, convallis velit ut, varius nunc. Ut venenatis pellentesque nulla, luctus accumsan eros suscipit vitae. Proin odio neque, hendrerit cursus mattis ut, aliquet ut nulla. Nulla facilisi. Donec tempus rutrum libero vel cursus.
+Here will be filled with more info about primary investigator.
