@@ -4,7 +4,11 @@ title: "Improving your statistical inferences"
 ---
 
 #### Skills I gained:
-Likelihood Function, Bayesian Statistics, Bayesian Statistics, P-Value, Statistical Inference
+Likelihood Function  
+Bayesian Statistics  
+Bayesian Statistics  
+P-Value  
+Statistical Inference  
 
 [Course Website](https://www.coursera.org/learn/statistical-inferences)
 

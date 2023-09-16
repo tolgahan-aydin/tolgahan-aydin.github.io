@@ -4,7 +4,10 @@ title: "Introduction to the Tidyverse"
 ---
 
 #### Skills I gained:
-Data Management, Data Visualization (DataViz), R Programming, tidying data
+Data Management  
+Data Visualization (DataViz)  
+R Programming  
+Tidying data
 
 [Course Website](https://www.coursera.org/learn/tidyverse?specialization=tidyverse-data-science-r)
 

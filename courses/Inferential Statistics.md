@@ -4,8 +4,10 @@ title: "Inferential Statistics"
 ---
 
 #### Skills I gained:
-Statistics, Statistical Inference, Regression Analysis, Analysis Of Variance (ANOVA)
-
+Statistics  
+Statistical Inference  
+Regression Analysis  
+Analysis Of Variance (ANOVA)  
 
 [Course Website](https://www.coursera.org/learn/inferential-statistics)
 
