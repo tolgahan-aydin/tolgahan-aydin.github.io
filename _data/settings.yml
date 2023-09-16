@@ -24,4 +24,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/tolgahan-aydin/'}
 
 contacts:
-- {name: 'Tolgahan Aydın', title: 'M.A.', department: 'Cognitive Psychology', institution: 'Tübingen University', institution_address: 'Schleichstrasse 4 72076 Tübingen Germany', phone: '', email: 'tolgahan7008@gmail.com', office: '', image: 'assets/img/contact.png'}
+- {name: 'Tolgahan Aydın', title: 'M.A.', department: 'Cognitive Psychology', institution: 'Tübingen University', institution_address: 'Schleichstrasse 4 72076 Tübingen Germany', email: 'tolgahan7008@gmail.com', office: '', image: 'assets/img/contact.png'}
