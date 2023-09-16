@@ -13,7 +13,7 @@ people:
 courses:
 - {name: 'Improving your statistical inferences', url: 'Improving your statistical inferences'}
 - {name: 'Inferential Statistics', url: 'Inferential Statistics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+- {name: 'Introduction to the Tidyverse', url: 'Introduction to the Tidyverse'}
 
 social:
 - {icon: 'github', link: 'https://github.com/tolgahan-aydin'}
