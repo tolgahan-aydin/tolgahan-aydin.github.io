@@ -15,6 +15,8 @@ courses:
 - {name: 'Inferential Statistics', url: 'Inferential Statistics'}
 - {name: 'Introduction to the Tidyverse', url: 'Introduction to the Tidyverse'}
 - {name: 'Importing Data in the Tidyverse', url: 'Importing Data in the Tidyverse'}
+- {name: 'Wrangling Data in the Tidyverse', url: 'Wrangling Data in the Tidyverse'}
+
 
 social:
 - {icon: 'github', link: 'https://github.com/tolgahan-aydin'}
