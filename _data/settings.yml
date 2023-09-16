@@ -12,7 +12,7 @@ people:
 
 courses:
 - {name: 'Improving your statistical inferences', url: 'Improving your statistical inferences'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+- {name: 'Inferential Statistics', url: 'Inferential Statistics'}
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
