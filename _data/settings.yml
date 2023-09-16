@@ -17,8 +17,7 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/tolgahan-aydin'}
-- {icon: 'twitter', link: ''}
-- {icon: 'instagram', link: ''}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0002-0747-6584'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/tolgahan-aydin/'}
 
 contacts:
