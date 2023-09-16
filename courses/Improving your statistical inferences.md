@@ -3,32 +3,13 @@ layout: page
 title: "Improving your statistical inferences"
 ---
 
-#### Course Information
+#### Skills I gained:
+Likelihood Function, Bayesian Statistics, Bayesian Statistics, P-Value, Statistical Inference
 
-[Course Outline](https://www.coursera.org/learn/statistical-inferences)
+[Course Website](https://www.coursera.org/learn/statistical-inferences)
+
+[Course Certificate](https://www.coursera.org/account/accomplishments/certificate/DT2LN63SAT4K)
 
 #### Lecture Notes
 
 [Lecture 1](/courses/Improving your statistical inferences/Sample_Lecture_Notes.pdf)
-
-[Lecture 2](/courses/Improving your statistical inferences/Sample_Lecture_Notes.pdf)
-
-[Lecture 3](/courses/Improving your statistical inferences/Sample_Lecture_Notes.pdf)
-
-#### Homework
-
-[Homework 1](/courses/Improving your statistical inferences/Sample_Lecture_Notes.pdf)
-
-[Homework 2](/courses/Improving your statistical inferences/Sample_Lecture_Notes.pdf)
-
-[Homework 3](/courses/Improving your statistical inferences/Sample_Lecture_Notes.pdf)
-
-#### Midterms
-
-[Midterm 1](/courses/Improving your statistical inferences/Sample_Midterm.pdf)
-
-[Midterm 2](/courses/Improving your statistical inferences/Sample_Midterm.pdf)
-
-#### Exams
-
-[Exam 1](/courses/Improving your statistical inferences/Sample_Exam.pdf)
