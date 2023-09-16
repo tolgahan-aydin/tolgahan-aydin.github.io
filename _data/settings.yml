@@ -16,7 +16,7 @@ courses:
 - {name: 'Introduction to the Tidyverse', url: 'Introduction to the Tidyverse'}
 - {name: 'Importing Data in the Tidyverse', url: 'Importing Data in the Tidyverse'}
 - {name: 'Wrangling Data in the Tidyverse', url: 'Wrangling Data in the Tidyverse'}
-
+- {name: 'Visualizing Data in the Tidyverse', url: 'Visualizing Data in the Tidyverse'}
 
 social:
 - {icon: 'github', link: 'https://github.com/tolgahan-aydin'}

@@ -4,9 +4,9 @@ title: "Wrangling Data in the Tidyverse"
 ---
 
 #### Skills I gained:
-Apply Tidyverse functions to import data into R from external formats
-Describe different data formats
-Obtain data from a web API
+Apply Tidyverse functions to transform non-tidy data to tidy data
+Conduct basic exploratory data analysis
+Conduct analyses of text data
 
 [Course Website](https://www.coursera.org/learn/tidyverse-data-wrangling?specialization=tidyverse-data-science-r)
 
