@@ -8,9 +8,3 @@ I’m currently working on the project called: "From Event Models to Event Schem
 I’m currently learning GitHub, Statistics with R, Tidyverse.
 
 I’m looking to collaborate on Event Segmentation of Dynamic Scenes and Media Psychology.
-
-
----
-layout: post
-title: "Sample Post"
----
