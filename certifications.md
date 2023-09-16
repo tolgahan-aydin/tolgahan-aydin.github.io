@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: certifications
 title: "certifications"
 ---
