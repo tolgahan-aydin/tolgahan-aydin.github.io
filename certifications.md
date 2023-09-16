@@ -1,4 +1,4 @@
 ---
-layout: certifications
+layout: cv
 title: "Certifications"
 ---
