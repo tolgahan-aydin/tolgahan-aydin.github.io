@@ -5,10 +5,10 @@ menu:
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
-people:
-- {name: 'Primary Investigator', title: 'Professor', department: 'Cognitive Psychology', institution: '', institution_address: '', phone: '', email: '', office: '', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Lab Technician', title: 'Researcher', department: 'Cognitive Psychology', institution: '', institution_address: '', phone: '', email: '', office: '', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Graduate Student', title: 'Researcher', department: 'Cognitive Psychology', institution: '', institution_address: '', phone: '', email: '', office: '', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+#people:
+#- {name: 'Primary Investigator', title: 'Professor', department: 'Cognitive Psychology', institution: '', institution_address: '', phone: '', email: '', office: '', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+#- {name: 'Lab Technician', title: 'Researcher', department: 'Cognitive Psychology', institution: '', institution_address: '', phone: '', email: '', office: '', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+#- {name: 'Graduate Student', title: 'Researcher', department: 'Cognitive Psychology', institution: '', institution_address: '', phone: '', email: '', office: '', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 courses:
 - {name: 'Improving your statistical inferences', url: 'Improving your statistical inferences'}
