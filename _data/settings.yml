@@ -16,10 +16,10 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/tolgahan-aydin'}
+- {icon: 'twitter', link: ''}
+- {icon: 'instagram', link: ''}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/tolgahan-aydin/'}
 
 contacts:
-- {name: 'Tolgahan Aydın', title: 'M.A.', department: 'Cognitive Psychology', institution: 'Tübingen University', institution_address: 'Schleichstrasse 4 72076 Tübingen Germany', phone: '(000) 000-0000', email: 'tolgahan7008@gmail.com', office: '', image: 'assets/img/contact.png'}
+- {name: 'Tolgahan Aydın', title: 'M.A.', department: 'Cognitive Psychology', institution: 'Tübingen University', institution_address: 'Schleichstrasse 4 72076 Tübingen Germany', phone: '', email: 'tolgahan7008@gmail.com', office: '', image: 'assets/img/contact.png'}
