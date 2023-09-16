@@ -11,7 +11,7 @@ people:
 - {name: 'Graduate Student', title: 'Researcher', department: 'Cognitive Psychology', institution: '', institution_address: '', phone: '', email: '', office: '', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
+- {name: 'Improving your statistical inferences', url: 'Improving your statistical inferences'}
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
