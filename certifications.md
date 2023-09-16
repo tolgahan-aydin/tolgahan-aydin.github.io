@@ -1,4 +1,4 @@
 ---
 layout: cv
-title: "Certifications"
+title: "certifications"
 ---
