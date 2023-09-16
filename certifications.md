@@ -1,4 +1,0 @@
----
-layout: certifications
-title: "certifications"
----

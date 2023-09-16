@@ -1,7 +1,7 @@
 menu:
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
-- {name: 'certifications', url: '/certifications'}
+- {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
@@ -10,7 +10,7 @@ people:
 - {name: 'Lab Technician', title: 'Researcher', department: 'Cognitive Psychology', institution: '', institution_address: '', phone: '', email: '', office: '', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 - {name: 'Graduate Student', title: 'Researcher', department: 'Cognitive Psychology', institution: '', institution_address: '', phone: '', email: '', office: '', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
-certifications:
+courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 - {name: 'Stellar Structures', url: 'stellar-structures'}
