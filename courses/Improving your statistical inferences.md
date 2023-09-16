@@ -5,7 +5,7 @@ title: "Improving your statistical inferences"
 
 #### Course Information
 
-[Course Outline](/courses/Improving your statistical inferences/Sample_Course_Outline.pdf)
+[Course Outline](https://www.coursera.org/learn/statistical-inferences)
 
 #### Lecture Notes
 
